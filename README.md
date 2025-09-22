@@ -70,7 +70,8 @@ COPY INTO dbo.answers
 
 1. **New Data Pipeline 생성**
    - Workspace로 이동하여 "New data pipeline"을 선택합니다.
-   ![New Data Pipeline](images/step5_new_data_pipeline.png)
+
+      ![New Data Pipeline](images/step5_new_data_pipeline.png)
 
 2. **연결 설정**
    - "Create new connection"을 선택하고 서버 이름, 데이터베이스 이름, 인증 정보를 입력합니다.
