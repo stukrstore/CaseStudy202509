@@ -1,4 +1,4 @@
-# Pre – Create Workspace, Warehouse
+# Create Workspace, Warehouse
 
 이 문서는 Microsoft Fabric에서 워크스페이스와 웨어하우스를 생성하는 사전 단계에 대해 설명합니다.
 
