@@ -152,7 +152,7 @@ COPY INTO dbo.answers
    - **대상**:
      - `workshop_lakehouse_silver`
      - 파일: `features.csv` (옵션: 폴더 생성)
-   ![파일 업로드](images/step18_upload_files.png)
+       ![파일 업로드](images/step18_upload_files.png)
 
 2. **업로드 확인**
    - `features.csv` 파일이 `workshop_lakehouse_silver`에 성공적으로 업로드되었는지 확인합니다.
@@ -201,11 +201,12 @@ COPY INTO dbo.answers
 2. **Semantic model 열기**
    - Workspace로 이동하여 `semantic_model_gold` 선택
    - "Open data model" 클릭
-   ![Semantic model 열기](images/step24_new_semantic_model.png)
+
+     ![Semantic model 열기](images/step24_new_semantic_model.png)
 
 3. **관계 설정**
    - Semantic Model의 테이블 간 관계 정의
-   - ![관계 설정](images/step25_open_semantic_model.png)
+   ![관계 설정](images/step25_open_semantic_model.png)
 
 4. **Semantic Model 확인**
    - Semantic Model이 성공적으로 생성되고 관계가 설정되었는지 확인
