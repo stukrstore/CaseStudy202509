@@ -21,11 +21,12 @@ FROM 'https://mskranalyticwestus3.dfs.core.windows.net/datasets/answers.csv' WIT
             FILE_TYPE = 'CSV'
             ,CREDENTIAL = ( 
                 IDENTITY = 'Shared Access Signature'
-                , SECRET = '?sv=2023-11-03&spr=https%2Chttp&st=2024-04-11T02%3A58%3A21Z&se=2026-12-12T02%3A58%3A00Z&sr=c&sp=rl&sig=OqnyGexTMYLZ8XYoBWkxEJrzHA7i79CHrNmPIkagGZk%3D'
+                , SECRET = '?sv={enter-SAS-Token}'
                 )
             ,FIRSTROW = 2
 			,FIELDTERMINATOR=','
             )
 GO
+
 
 SELECT COUNT(*) FROM dbo.answers;
