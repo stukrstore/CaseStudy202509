@@ -79,10 +79,12 @@ COPY INTO dbo.answers
 
 3. **데이터 소스 연결**
    - 테이블을 선택하고 데이터를 미리 봅니다.
+   
    ![데이터 소스 연결](images/step7_connect_to_source.png)
 
 4. **데이터 대상 연결**
    - 새 테이블로 로드하고 열 매핑을 설정합니다.
+     
    ![데이터 대상 연결](images/step8_connect_to_destination.png)
 
 5. **Pipeline 실행 ID 확인**
