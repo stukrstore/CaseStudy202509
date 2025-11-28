@@ -134,6 +134,7 @@ COPY INTO dbo.answers
    - **소스**:
      - `fabricsparkstore`
      - 파일 이름: `marketing_campaign.csv`
+       
    ![S3 바로 가기](images/step15_new_shortcut_s3.png)
 
 2. **연결 설정**
