@@ -229,6 +229,7 @@ COPY INTO dbo.answers
 1. **Semantic Model 및 Power BI Copilot Report 생성**
    -Workspace로 이동하여 Semantic Model `semantic_model_gold` 선택
    - `...` 메뉴를 클릭하고 "Create report" 선택
+     
    ![보고서 생성](images/step27_create_report.png)
 
 2. **데이터 탐색 및 Copilot을 사용한 보고서 생성**
