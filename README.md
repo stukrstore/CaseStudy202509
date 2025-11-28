@@ -158,6 +158,7 @@ COPY INTO dbo.answers
    - **대상**:
      - `workshop_lakehouse_silver`
      - 파일: `features.csv` (옵션: 폴더 생성)
+       
        ![파일 업로드](images/step18_upload_files.png)
 
 2. **업로드 확인**
