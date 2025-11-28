@@ -143,6 +143,7 @@ COPY INTO dbo.answers
    - 인증 종류: Access Key
      - Access Key ID: `********`
      - Secret Access Key: `********`
+       
    ![연결 설정](images/step16_s3_credential.png)
 
 3. **OneLake shortcut 확인**
