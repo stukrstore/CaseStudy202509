@@ -94,6 +94,7 @@ COPY INTO dbo.answers
 
 ### 결과
 - `dbo.sales_transactions` 테이블이 Warehouse에 성공적으로 생성되었습니다.
+  
 ![생성된 테이블 확인](images/step10_verify_created_tables.png)
 
 ## 6. Lakehouse OneLake shourtcut 생성
@@ -101,6 +102,7 @@ COPY INTO dbo.answers
 ### 단계
 1. **Lakehouse 생성**
    - `workshop_lakehouse_silver` 및 `workshop_lakehouse_gold` 생성
+     
    ![Lakehouse 생성](images/step11_create_lakehouse.png)
 
 2. **Add OneLake shortcut**
