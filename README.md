@@ -174,6 +174,7 @@ COPY INTO dbo.answers
 
 2. **Lakehouse 추가**
    - Notebook에 `workshop_lakehouse_silver` 및 `workshop_lakehouse_gold` 추가
+     
    ![Lakehouse 추가](images/step22_notebook.png)
 
 3. **테이블 확인**
