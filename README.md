@@ -203,6 +203,7 @@ COPY INTO dbo.answers
      - `fact_sale`
      - `dim_purchase`
      - `dim_dates`
+       
    ![새 Semantic Model](images/step23_create_lakehouse_gold.png)
 
 2. **Semantic model 열기**
