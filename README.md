@@ -238,6 +238,7 @@ COPY INTO dbo.answers
       - 고객 행동 인사이트
       - 공급자 서비스 평가
       - 프로모션 효과 추적
+        
    ![Copilot 보고서 생성](images/step28_pbi_copilot.png)
 
 3. **Power BI Desktop**
