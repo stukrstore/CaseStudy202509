@@ -89,6 +89,7 @@ COPY INTO dbo.answers
 
 5. **Pipeline 실행 ID 확인**
    - 실행 ID와 활동 상태를 확인합니다.
+     
    ![Pipeline 실행 ID 확인](images/step9_verify_run_id.png)
 
 ### 결과
